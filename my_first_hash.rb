@@ -1,8 +1,8 @@
 def my_hash
   your_hash = {
-  "whale bone corsets" => 5
-  "porcelain vases" => 2
-  "oil paintings" => 3
+  "my name" => "Kirstie Langan"
+  "my age" => "36"
+  "my_town" => "Glasgow"
 }
 end
 
