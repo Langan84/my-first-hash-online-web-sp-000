@@ -1,8 +1,8 @@
 def my_hash
   your_hash =
-  {"my name" => "Kirstie Langan"
-  "my age" => 36
-  "my_town" => "Glasgow"}
+  {"my name" => "Kirstie Langan",
+  "my age" => 36,
+  "my_town" => "Glasgow"},
   your_hash
 end
 
