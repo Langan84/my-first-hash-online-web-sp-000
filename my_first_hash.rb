@@ -1,4 +1,4 @@
-def my_hash 
+def my_hash
   your_hash = {
   "whale bone corsets" => 5
   "porcelain vases" => 2
