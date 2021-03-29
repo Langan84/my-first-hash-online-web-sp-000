@@ -23,7 +23,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-      shopping_manifets["oil paintings"]
+      shopping_manifest["oil paintings"]
 end
 
 def adding
