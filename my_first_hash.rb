@@ -21,8 +21,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-shopping_manifets["oil paintings"]
-
+      shopping_manifets["oil paintings"]
 end
 
 def adding
@@ -31,7 +30,8 @@ def adding
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-  # add 2 muskets to the shipping_manifest hash below
+  [muskets] = 2
+  [gun powder] = 4# add 2 muskets to the shipping_manifest hash below
 
 
 
