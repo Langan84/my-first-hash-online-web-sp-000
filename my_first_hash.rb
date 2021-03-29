@@ -37,10 +37,4 @@ shipping_manifest
 end
 
 
-# To add a key to the person hash:
-person["hometown"] = "Massena, NY"
-person["hometown"] #=> "Massena, NY"
 
-# Let's add another key
-person["favorite_thing"] = "Books"
-person["favorite_thing"] #=> "Books"
